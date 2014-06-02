@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/opscode/omnibus-ruby.git
-  revision: d116ec2629efe059b8cbc4c5a4d1338d8c11397a
-  branch: master
+  revision: af004a7d032b729ec59781f536a06e49bc1a3fab
+  branch: lcg/windows-embedded-path
   specs:
     omnibus (3.1.1)
       chef-sugar (~> 1.2)
@@ -14,8 +14,8 @@ GIT
 
 GIT
   remote: git://github.com/opscode/omnibus-software.git
-  revision: 7a2bce3db3312216ffe6f380df25760de95a048d
-  branch: master
+  revision: 7fbae2f8bebb618bd4a1bb24af0d29407f9ac396
+  branch: lcg/ffi-yajl-gem
   specs:
     omnibus-software (0.0.1)
 
