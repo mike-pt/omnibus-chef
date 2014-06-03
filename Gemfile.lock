@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/opscode/omnibus-ruby.git
-  revision: af004a7d032b729ec59781f536a06e49bc1a3fab
+  revision: 1d54af3fd30cfc53c1a21030f328effe9978c61e
   branch: lcg/windows-embedded-path
   specs:
     omnibus (3.1.1)
